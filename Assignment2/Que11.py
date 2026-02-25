@@ -6,7 +6,7 @@ amount = int(input("enter the amount "))
 notes2000 = amount // 2000
 amount = amount% 2000
 
-notes500 = amount / 500
+notes500 = amount // 500
 amount = amount % 500
 
 notes100 = amount // 100

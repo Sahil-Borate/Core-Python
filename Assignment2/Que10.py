@@ -1,6 +1,6 @@
 
 #take the input from the user
-num = int(input("enter the three digit number"))
+num = int(input("enter the three digit number:"))
 
 #calculate the solution
 hundreds = num // 100        
